@@ -38,25 +38,46 @@ This automation project aims to:
 
 # Setup & Run Instructions
   # Step 1: Install Prerequisites
+  
+             Cypress Doc - https://docs.cypress.io/app/get-started/install-cypress
+             
              Git – Download Git
+             
              Node.js & npm – Download Node.js
+             
              IDE – Visual Studio Code recommended
+             
   # Step 2: Clone the Repository
          Navigate to your desired folder
+         
          cd /path/to/your/folder
+         
          Clone the repository
+         
          git clone https://github.com/YOUR-USERNAME/YOUR-REPO-NAME.git
+         
          Navigate into the project folder
+         
          cd YOUR-REPO-NAME
+         
  # Step 3: Open in IDE
       Open the project in VS Code or your preferred IDE.
  # Step 4: Install Dependencies
+ 
       npm install
+      
        This installs all required packages listed in package.json.
  # Step 5: Run the Tests
-    Interactive Mode:  npx cypress open
-    Headless Mode:   npx cypress run
+    Interactive Mode:  
+    
+    npx cypress open
+    
+    Headless Mode:   
+    
+    npx cypress run
+    
  # Step 6: View Results
+ 
     Screenshots for failed tests: /cypress/screenshots
     Videos (optional): /cypress/videos
     HTML reports (MochaAwesome): /cypress/reports or configured report path
