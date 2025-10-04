@@ -25,8 +25,20 @@ This automation project aims to:
 •	Reports – Generate HTML reports (MochaAwesome), screenshots for failures
 •	GitHub Repository – Source code management
  # TestCases Covered
- UI Validation, all elements checked- Total 10 TCs
- Chatbox Dialogue- Total 5 TCs
+ 
+ | Test Type             | What to Check                                          |
+| --------------------- | ------------------------------------------------------ |
+| UI/UX                 | Visibility, responsiveness, accessibility, alignment   |
+| Functional            | Chat send/receive, language support, context handling  |
+| AI Response           | Accuracy, relevance, formatting, fallback handling     |
+| Edge Cases            | Empty, long, malformed, or special-character questions |
+| Performance           | Response time, load, stress, session handling          |
+| Security & Compliance | Input validation, data privacy, HTTPS                  |
+| Automation            | Logs, screenshots, retries, CI/CD integration          |
+| Regression            | Verify old features still work after updates           |
+| Analytics & Metrics   | Logging, error tracking, user interaction analytics    |
+
+
 
 # Setup & Run Instructions
   # Step 1: Install Prerequisites
