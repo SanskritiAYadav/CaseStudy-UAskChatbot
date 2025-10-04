@@ -1,0 +1,19 @@
+{
+  "name": "uask-chatbot",
+  "version": "1.0.0",
+  "description": "CaseStudy",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SanskritiAYadav/CaseStudy-UAsk.git"
+  },
+  "author": "Sanskriti Yadav",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^15.3.0",
+    "cypress-mochawesome-reporter": "^4.0.2"
+  }
+}

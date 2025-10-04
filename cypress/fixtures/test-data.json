@@ -1,0 +1,13 @@
+[
+    {
+      "prompt": "What is the visa process for UAE?",
+      "expected_en": "The UAE visa process involves...",
+      "expected_ar": "تشمل عملية التأشيرة في الإمارات..."
+    },
+    {
+      "prompt": "Tell me about UAE's national bird.",
+      "expected_en": "The national bird is the falcon...",
+      "expected_ar": "الطائر الوطني هو الصقر..."
+    }
+  ]
+  
