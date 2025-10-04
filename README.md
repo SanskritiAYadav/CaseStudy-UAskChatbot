@@ -24,17 +24,9 @@ This automation project aims to:
 •	Fixtures – Store data-driven prompts and expected responses
 •	Reports – Generate HTML reports (MochaAwesome), screenshots for failures
 •	GitHub Repository – Source code management
- # Framework Features
-•	Reusable Automation Framework
-•	Follows POM design pattern
-•	Separates locators, actions, and test logic
-•	Ensures maintainability and scalability
-•	Data-Driven Testing
-•	Supports testing multiple scenarios without changing code
-•	Reporting & Logging
-•	Generates HTML reports with MochaAwesome
-•	Captures screenshots for failed tests
-•	Maintains detailed logs for debugging
+ # TestCases Covered
+ UI Validation, all elements checked- Total 10 TCs
+ Chatbox Dialogue- Total 5 TCs
 
 # Setup & Run Instructions
   # Step 1: Install Prerequisites
